@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"path": "../../My_Playwright"
+		},
+		{
+			"path": "../../Playwright_Javascript"
+		}
+	],
+	"settings": {}
+}
